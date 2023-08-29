@@ -1,0 +1,10 @@
+com\hbsmoura\gerenciabanco2\AplicarBanco.class
+com\hbsmoura\gerenciabanco2\Cauculos.class
+com\hbsmoura\gerenciabanco2\ContaBanco.class
+com\hbsmoura\gerenciabanco2\Match.class
+com\hbsmoura\gerenciabanco2\GerenciaBanco2.class
+enums\TipoOperacao.class
+com\hbsmoura\gerenciabanco2\Calculos.class
+entidades\Usuario.class
+entidades\Conta.class
+entidades\Operacao.class
